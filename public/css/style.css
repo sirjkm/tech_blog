@@ -1,5 +1,13 @@
+body {
+    color: #ffbe0b;
+}
+
 header, .project:not(:last-child) {
     border-bottom: 1px solid #ccc;
+}
+
+header {
+    background-color: #3a86ff;
 }
 
 .no-button {
@@ -17,8 +25,7 @@ header, .project:not(:last-child) {
     text-decoration: underline;
 }
 
-.dollar-amount {
-    color: #056605;
-    font-weight: bold;
-    margin-left: -5px;
+.flex-column {
+    background-color: #8338ec;
+    color: #ffbe0b;
 }

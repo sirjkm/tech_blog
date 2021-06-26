@@ -1,17 +1,17 @@
 [
     {
-    "name": "Music Near Me",
-    "description": "A mobile app that will send you notifications whenever a concert is playing in your area.",
-    "needed_funding": 5000
+    "name": "Startup leaders need to learn how to build companies ready for crisis",
+    "article": "t’s been a tough year for business. From ransomware attacks and power outages to cloud downtime and supply-chain disruptions, it’s never been more important to communicate to customers and stakeholders about what’s going wrong and why. Yet, with partial data and misinformation often spreading faster than official word, it’s also never been harder to deliver accurate and timely messages. Given the complexities of this environment, I wanted to convene a group of specialists to talk about what the future of crisis comms holds for startups, technology companies, and business more broadly. We had a great set of three folks discuss how to build resilient orgs, handle the decentralization going on in tech today, and how to prioritize crisis management over the mundane tasks every day.",
+    "likes": 100
     },
     {
-    "name": "The Ultimate Tech Quiz",
-    "description": "A web app that will give users 10 new technical questions each day and track their progress in things like programming, cybersecurity, database architecture, and more!",
-    "needed_funding": 10000
+    "name": "Edge Delta raises $15M Series A to take on Splunk",
+    "article": "Seattle-based Edge Delta, a startup that is building a modern distributed monitoring stack that is competing directly with industry heavyweights like Splunk, New Relic and Datadog, today announced that it has raised a $15 million Series A funding round led by Menlo Ventures and Tim Tully, the former CTO of Splunk. Previous investors MaC Venture Capital and Amity Ventures also participated in this round, which brings the company’s total funding to date to $18 million. Our thesis is that there’s no way that enterprises today can continue to analyze all their data in real time,” said Edge Delta co-founder and CEO Ozan Unlu, who has worked in the observability space for about 15 years already (including at Microsoft and Sumo Logic). “The way that it was traditionally done with these primitive, centralized models — there’s just too much data. It worked 10 years ago, but gigabytes turned into terabytes and now terabytes are turning into petabytes. That whole model is breaking down.",
+    "likes": 15
     },
     {
-    "name": "Roll 'Em Up",
-    "description": "A game for Windows and macOS where players move a ball through a series of increasingly challenging mazes.",
-    "needed_funding": 800
+    "name": "Endnotes on 2020: Crypto and Beyond",
+    "article": "uninterrupted time - an unremarkable duration for many, but for myself the longest I've stayed in any one place for nearly a decade. After months of fighting what may perhaps even be humanity's first boss-level enemy since 1945, the city itself is close to normal, though the world as a whole and its 7.8 billion inhabitants, normally so close by, continue to be so far away. Many other parts of the world have done less well and suffered more, though there is now a light at the end of the tunnel, as hopefully rapid deployment of vaccines will help humanity as a whole overcome this great challenge. 2020 has been a strange year because of these events, but also others. As life away from keyboard (AFK) has gotten much more constrained and challenging, the internet has been supercharged, with consequences both good and bad. Politics around the world has gone in strange directions, and I am continually worried by the many political factions that are so easily abandoning their most basic principles because they seem to have decided that their (often mutually contradictory) personal causes are just too important. And yet at the same time, there are rays of hope coming from unusual corners, with new technological discoveries in transportation, medicine, artificial intelligence - and, of course, blockchains and cryptography - that could open up a new chapter for humanity finally coming to fruition.",
+    "likes": 20
     }
 ]
